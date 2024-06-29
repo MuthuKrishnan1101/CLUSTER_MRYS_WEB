@@ -39,7 +39,7 @@
                         <asp:ImageButton ID="imgbtnAudit" runat="server" CssClass="MenuImageButton" ImageUrl="Images/MenuTemplatesImg/AUDIT_MENU.png"
                             ToolTip="Audit Log" OnClick="imgbtnAudit_Click" />
                         <%--<asp:ImageButton ID="imgbtnInfo" runat="server" class="MenuImageButton" ImageUrl="Images/MenuTemplatesImg/INFO_MENU.png"
-                            ToolTip="Information" />--%>
+                            ToolTip="Information"   />--%>
 
 
                         <asp:UpdatePanel ID="UpdatePanel1" runat="server">
